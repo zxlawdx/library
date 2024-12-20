@@ -1,0 +1,5 @@
+aroaro;doce;2023;756;2319
+arroz;doce;2023;1999;4000
+arroz doce;doce;1200;4300;34050
+Linguagem C completa;Robertinho;2020;5;10
+pense como um programador;justin;2002;20;33
